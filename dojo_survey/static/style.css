@@ -1,0 +1,20 @@
+#box{
+    
+    margin: 0px auto;
+    border: 1px solid black;
+    background-color: #33393e;
+    color: #fec008;
+    width: 500px;
+}
+#wrapper{
+    display: flex;
+    justify-content: center;
+
+}
+label{
+    color: white;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}

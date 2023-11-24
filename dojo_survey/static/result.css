@@ -1,0 +1,23 @@
+#wrapper{
+    display: flex;
+    justify-content: center;
+}
+#box{
+    /* display: flex;
+    justify-content: center; */
+    background-color: #343a3e;
+    color: blue;
+    width: 500px;
+    height: 400px;
+}
+p{
+    color: white;
+    margin-left: 15px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+a{
+    margin-left: 15px;
+}
